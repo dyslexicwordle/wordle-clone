@@ -40,7 +40,7 @@ body {
   border-radius: .25em;
   cursor: pointer;
   user-select: none;
-  animation: shake 0.4s ease-out;
+  animation: shake 0.4s linear infinite;
 }
 
 .key.large {
